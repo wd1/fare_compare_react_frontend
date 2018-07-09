@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#navbar-background {
+  background-color: #413d36;
+  border-radius: 5px;
+}
+
+#auth {
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Vfv9BDZagiltwcyiq/road-tunnel-ride-travel-transportation-highway-and-logistics-background-loop_rw2wzzg8__F0000.png);
+  height: 100vh;
+}
+
+#auth-box {
+  background-color: #413d36;
+  border-radius: 5px;
+  width: 25%;
+  margin-top: 100px;
+}
+
+#error-box {
+  background-color: #ead582;
+  border-radius: 5px;
+  width: 25%;
+}
+
+#error-h2 {
+  color: black;
+}
+
+#logo-div {
+  background-color: #ead582;
+}
+
+#logo-h1 {
+  font-family: 'Playball', cursive;
+  color: black;
+  font-size: 30px;
+}
+
+#forgot-password {
+  color: white;
+}
+
+#ui-segment-pushable {
+  height: 94%;
+  border-style: none;
+  margin: 0px;
+  border-radius: 0px;
+}
+
+#pusher, #basic-segment {
+  height: 94%;
+  padding: 0px;
+  border-style: none;
+}
+
+#top-menu {
+  border-radius: 0px;
+}
+
+#search-div{
+  height: 95%;
+  width: 50%;
+  border-style: none;
+}
+
+#ride-nearest {
+  background-color: #ead582;
+  color: black;
+  opacity: .75;
+  width: 220px;
+  padding: 10px;
+}
+
+#menu{
+  background-color: #1b1c1d;
+}
+
+#results-map-segment{
+  width: 50%;
+  padding: 0px;
+}
+
+p#profile {
+  font-size: 14px;
+}
+
+p#address {
+  font-size: 18px;
+}
+
+#error-destination {
+  color: red;
+}
+
+#results-segments{
+  padding: 0px;
+}
+
+#checkbox-div {
+  width:10%;
+  margin:0 auto;
+}
